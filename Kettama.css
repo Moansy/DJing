@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+p {
+ font-size: 20px;
+}
+
+h1 {
+  font-style: italic;
+  font-size: 60px
+ {border-style: solid;}
+}
+
+p {
+  font-style: italic;
+}
+
+h1 {border-style: solid;}
+
+a {
+  color: green;
+  font-size: 25px;
+}
+
+img {border-style: solid;}
+
+h2 {
+ font-size: 20px;
+}
